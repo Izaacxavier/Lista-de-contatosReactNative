@@ -11,7 +11,7 @@ O Projeto é um desafio do #boracodar da Rockeseat, o objetivo é desenvolver um
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
--TypeScript
+- TypeScript
 - React native
 - Expo 
 - Componentes React native
